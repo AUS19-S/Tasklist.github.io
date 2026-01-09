@@ -1,0 +1,6 @@
+body{
+  background-color: darkblue;
+  display: flex;
+  flex-diretion: column;
+  aligh-itens: center;
+}
